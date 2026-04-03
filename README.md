@@ -1,0 +1,1 @@
+Miniature calendar, displaying current day, date, month and year.
